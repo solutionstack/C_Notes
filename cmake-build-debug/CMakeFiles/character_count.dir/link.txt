@@ -1,1 +1,0 @@
-/usr/bin/gcc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/character_count.dir/character_count.c.o  -o character_count 
