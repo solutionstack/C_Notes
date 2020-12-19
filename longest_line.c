@@ -1,7 +1,6 @@
 //
-// Created by Olubodun Agbalaya on 21/11/2020.
+//= Created by Olubodun Agbalaya on 21/11/2020.
 //
-//Print longest line from multiline input
 
 #include <stdio.h>
 #include <string.h>
@@ -24,8 +23,7 @@ int main() {
     }
     printf("\nLongest line entered is : %s\n", longest);
 
-    free(longest);
-    free(current);
+
 }
 
 char *get_next_line() {
