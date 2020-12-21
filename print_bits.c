@@ -3,10 +3,10 @@
 //
 
 #include <stdio.h>
+#include <stdint.h>
+void printBitsBigEndian(uint64_t);
 
-void printBitsBigEndian(u_int64_t);
-
-void printBitsLilEndian(u_int64_t);
+void printBitsLilEndian(uint64_t);
 
 int main() {
 
@@ -21,9 +21,9 @@ int main() {
     }
 }
 
-void printBitsBigEndian(u_int64_t num) {//MSB last
+void printBitsBigEndian(uint64_t num) {//MSB last
     printf("Bits in %d = ", (int) num);
-    for (int bits = 0; bits < (sizeof(u_int64_t) * 8); bits++) {
+    for (int bits = 0; bits < (sizeof(uint64_t) * 8); bits++) {
 
         printf("%llu", 0x01ull & num);
         num >>= 1;
@@ -31,7 +31,7 @@ void printBitsBigEndian(u_int64_t num) {//MSB last
     printf("\n");
 }
 
-void printBitsLilEndian(u_int64_t num) {//MSB first
+void printBitsLilEndian(uint64_t num) {//MSB first
     printf("Bits in %d = ", (int) num);
     size_t bit_size = sizeof(num) * 8;
 
