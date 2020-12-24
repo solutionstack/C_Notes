@@ -9,7 +9,6 @@ void printBitsBigEndian(uint64_t);
 void printBitsLilEndian(uint64_t);
 
 int main() {
-
     printf("Print in Big endian...\n");
     for (int i = 0; i <= 20; i++) {
         printBitsBigEndian(i);
@@ -44,6 +43,5 @@ void printBitsLilEndian(uint64_t num) {//MSB first
         i = 1ull  << (bit_size - (++shift_size));
     }
     printf("\n");
-
 }
 
