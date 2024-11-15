@@ -1,28 +1,26 @@
 //
 // Created by Olubodun Agbalaya on 19/12/2020.
 //
-
 #include <stdio.h>
 #include <stdint.h>
-void printBitsBigEndian(uint64_t);
+#include "print_bits.h"
 
-void printBitsLilEndian(uint64_t);
 
-int main() {
-    printf("Print in Big endian...\n");
-    for (int i = 0; i <= 20; i++) {
-        printBitsBigEndian(i);
-    }
-
-    printf("\n\nPrint in Lil endian...\n");
-    for (int i = 0; i <= 20; i++) {
-        printBitsLilEndian(i);
-    }
-}
+// int main() {
+//     printf("Print in Big endian...\n");
+//     for (int i = 0; i <= 20; i++) {
+//         printBitsBigEndian(i);
+//     }
+//
+//     printf("\n\nPrint in Lil endian...\n");
+//     for (int i = 0; i <= 20; i++) {
+//         printBitsLilEndian(i);
+//     }
+// }
 
 void printBitsBigEndian(uint64_t num) {//MSB last
     printf("Bits in %d = ", (int) num);
-    for (int bits = 0; bits < (sizeof(uint64_t) * 8); bits++) {
+    for (unsigned bits = 0; bits < (sizeof(uint64_t) * 8); bits++) {
 
         printf("%llu", 0x01ull & num);
         num >>= 1;
@@ -34,7 +32,7 @@ void printBitsLilEndian(uint64_t num) {//MSB first
     printf("Bits in %d = ", (int) num);
     size_t bit_size = sizeof(num) * 8;
 
-    //shift set bit of 1 to MSB of bit_size, then & with num till we get to LSB
+    //shift set bit of int(1) to MSB of bit_size, then walk rightwards  and ( & with num ) till we get to LSB
     int shift_size= 1;
     for (size_t i = 1ull << (bit_size - shift_size);;) {
 

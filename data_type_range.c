@@ -1,5 +1,6 @@
 //
 // Created by Olubodun Agbalaya on 25/11/2020.
+//compile with -lm
 //
 
 
@@ -25,7 +26,7 @@ int main() {
     printUnsignedRange(sizeof(unsigned char) * 8); //* by eight so we get the number of bits
     printf("Printing range of signed char\n");
     printSignedRange(sizeof(char) * 8);
-`
+
 
     printf("\nPrinting range of unsigned int\n");
     printUnsignedRange(sizeof(unsigned int) * 8);
@@ -53,9 +54,9 @@ void printSignedRange(size_t no_of_bits) {
 
     printf("Min value: %lld\n", (long long) (-1 * (pow(2, no_of_bits - 1))));
     printf("Max value: %lld\n", (long long) (pow(2, no_of_bits - 1))-1 );
+
 }
 
 void printUnsignedRange(size_t no_of_bits) {
     printf("Range: %d to: %llu\n", 0, (unsigned long long) (pow(2, no_of_bits ))-1);
-
 }
