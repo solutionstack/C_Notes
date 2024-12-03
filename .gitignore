@@ -1,4 +1,6 @@
-*
+cmake-*
+build
 !*.*
 .idea/**/*
+.kdev4/**/*
 
