@@ -17,7 +17,7 @@ char *month_name(int n);
 char *s = "ssssssssjh";
 char *t = "h";
 int v;
-    if(( v = strend(s,t)) && v != -1) {
+    if(( (v = strend(s,t))) && v != -1) {
         printf("\n*s == *t");
         return 0;
     }

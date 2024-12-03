@@ -15,10 +15,11 @@ double rand_d(){
 int main(void ){
     srand(time(NULL));
 
-    printf("%d\n", rand()%100);
+    printf("rand: %d\n", rand());
+    printf("rand()%%100: %d\n", rand()%100);
 
     //to get from a range say 50-150
-    printf("%d\n", rand()%100 +50);
+    printf("rand()%%100 +50 %d\n", rand()%100 +50);
 
     //or min=50, max is 160, interval size 160-50 = 110
     printf("%d\n",(rand()%(160-50)) +50);
