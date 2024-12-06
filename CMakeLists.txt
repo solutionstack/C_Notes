@@ -4,6 +4,7 @@ project(learn C)
 set(CMAKE_C_STANDARD 11)
 add_compile_options(-O1 -fhardened -Wpedantic -Wall -Wextra -fsanitize=address )
 add_link_options(-fsanitize=address)#needed to match compile libasan option
+add_definitions(-DDEBUG)
 
 
 add_executable(main main.c)
@@ -49,3 +50,7 @@ add_executable(mutext1 Threads/mutex1.c)
 add_executable(join2 Threads/join2.c)
 add_executable(add_array_threads Threads/add_array_threads.c)
 add_executable(cond1 Threads/thread_cond_1.c)
+add_executable(din_ph Threads/din_ph/din_ph.c
+        Threads/din_ph/din_ph.h
+        Threads/din_ph/spn.c
+        Threads/din_ph/phil.c)
