@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/print_bits.dir/print_bits.c.o -o print_bits 

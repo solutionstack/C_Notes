@@ -3,6 +3,7 @@ build
 *
 !*.*
 !*/
+*build/**/*
 .idea/**/*
 .kdev4/**/*
 CMakeFiles/
