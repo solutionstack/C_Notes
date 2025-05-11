@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/print_bits.dir/print_bits.c.o -o print_bits

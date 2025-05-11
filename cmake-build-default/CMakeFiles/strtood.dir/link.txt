@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/strtood.dir/strtood.c.o -o strtood

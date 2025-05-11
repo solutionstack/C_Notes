@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/command_args1.dir/get_next_line.c.o CMakeFiles/command_args1.dir/command_args1.c.o -o command_args1

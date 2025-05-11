@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/process_comm_1.dir/unix/process_comm_1.c.o -o process_comm_1

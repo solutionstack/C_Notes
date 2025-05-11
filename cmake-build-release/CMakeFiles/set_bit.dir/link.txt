@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG CMakeFiles/set_bit.dir/set_bit.c.o -o set_bit 

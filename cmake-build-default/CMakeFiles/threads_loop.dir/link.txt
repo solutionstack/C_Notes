@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/threads_loop.dir/Threads/threads_in_loop.c.o -o threads_loop

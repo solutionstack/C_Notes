@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/arr_memory_dmp.dir/arr_mem_dump.c.o -o arr_memory_dmp

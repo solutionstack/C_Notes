@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG CMakeFiles/invert_bits.dir/set_bit.c.o -o invert_bits 

@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/signal_handling.dir/unix/signal_handling.c.o -o signal_handling

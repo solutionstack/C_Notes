@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "learn",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "character_count::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-character_count-Debug-38d3b67d7893e3d2211e.json",
+					"name" : "character_count",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "data_type_range::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-data_type_range-Debug-d7f0002b61c7ef9269cd.json",
+					"name" : "data_type_range",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "data_type_range_bits::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-data_type_range_bits-Debug-ad7665e693dd451ea94d.json",
+					"name" : "data_type_range_bits",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "farh-celcius::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-farh-celcius-Debug-ca0935faf6e5ec5f7893.json",
+					"name" : "farh-celcius",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "invert_bits::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-invert_bits-Debug-3947bdf2fb1058dd2dee.json",
+					"name" : "invert_bits",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "longest_line::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-longest_line-Debug-96e49726940a9f80da4e.json",
+					"name" : "longest_line",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "macro_swap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-macro_swap-Debug-55dc36a0e766063e9b0c.json",
+					"name" : "macro_swap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-93bbbf72ba97ffd9a7dd.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "print_bits::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-print_bits-Debug-7b8d614cfac21f9b0ffb.json",
+					"name" : "print_bits",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "quicksort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quicksort-Debug-9abed6fce5bd5acc5292.json",
+					"name" : "quicksort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "set_bit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-set_bit-Debug-7274bf49473dbad89f83.json",
+					"name" : "set_bit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "set_bits::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-set_bits-Debug-bd735d761f120f2ea117.json",
+					"name" : "set_bits",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/olu/Store/lang/C/build",
+		"source" : "/media/olu/Store/lang/C"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

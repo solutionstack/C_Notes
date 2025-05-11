@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/mutext1.dir/Threads/mutex1.c.o -o mutext1

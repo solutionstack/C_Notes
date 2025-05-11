@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/character_count.dir/character_count.c.o -o character_count

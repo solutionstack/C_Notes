@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/double_point_to_func.dir/double_point_to_func.c.o -o double_point_to_func

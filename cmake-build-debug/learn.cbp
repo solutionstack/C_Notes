@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="learn"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="macro_swap">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/macro_swap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 macro_swap"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="macro_swap/fast">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/macro_swap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 macro_swap/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quicksort">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/quicksort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 quicksort"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quicksort/fast">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/quicksort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 quicksort/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="farh-celcius">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/farh-celcius" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 farh-celcius"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="farh-celcius/fast">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/farh-celcius" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 farh-celcius/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="set_bit">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/set_bit" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 set_bit"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="set_bit/fast">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/set_bit" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 set_bit/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="character_count">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/character_count" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 character_count"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="character_count/fast">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/character_count" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 character_count/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="invert_bits">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/invert_bits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 invert_bits"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="invert_bits/fast">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/invert_bits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 invert_bits/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_type_range">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/data_type_range" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_type_range"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_type_range/fast">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/data_type_range" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_type_range/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_type_range_bits">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/data_type_range_bits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_type_range_bits"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_type_range_bits/fast">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/data_type_range_bits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_type_range_bits/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="set_bits">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/set_bits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 set_bits"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="set_bits/fast">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/set_bits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 set_bits/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="longest_line">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/longest_line" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 longest_line"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="longest_line/fast">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/longest_line" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 longest_line/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="print_bits">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/print_bits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 print_bits"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="print_bits/fast">
+				<Option output="/media/olubodun/Store/lang/C/cmake-build-debug/print_bits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olubodun/Store/lang/C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 print_bits/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/olubodun/Store/lang/C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/media/olubodun/Store/lang/C/character_count.c">
+			<Option target="character_count"/>
+		</Unit>
+		<Unit filename="/media/olubodun/Store/lang/C/data_type_range.c">
+			<Option target="data_type_range"/>
+		</Unit>
+		<Unit filename="/media/olubodun/Store/lang/C/data_type_range_bits.c">
+			<Option target="data_type_range_bits"/>
+		</Unit>
+		<Unit filename="/media/olubodun/Store/lang/C/farh-celcius.c">
+			<Option target="farh-celcius"/>
+		</Unit>
+		<Unit filename="/media/olubodun/Store/lang/C/longest_line.c">
+			<Option target="longest_line"/>
+		</Unit>
+		<Unit filename="/media/olubodun/Store/lang/C/macro_swap.c">
+			<Option target="macro_swap"/>
+		</Unit>
+		<Unit filename="/media/olubodun/Store/lang/C/main.c">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/media/olubodun/Store/lang/C/print_bits.c">
+			<Option target="set_bits"/>
+			<Option target="print_bits"/>
+		</Unit>
+		<Unit filename="/media/olubodun/Store/lang/C/quicksort.c">
+			<Option target="quicksort"/>
+		</Unit>
+		<Unit filename="/media/olubodun/Store/lang/C/set_bit.c">
+			<Option target="set_bit"/>
+			<Option target="invert_bits"/>
+		</Unit>
+		<Unit filename="/media/olubodun/Store/lang/C/strcat_pointer.c">
+			<Option target="character_count"/>
+		</Unit>
+		<Unit filename="/media/olubodun/Store/lang/C/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

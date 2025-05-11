@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/macro2.dir/macro2.c.o -o macro2

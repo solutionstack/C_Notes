@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/chefs.dir/Threads/chefs.c.o -o chefs

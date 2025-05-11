@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/command_args2.dir/command_args2_getopt.c.o -o command_args2

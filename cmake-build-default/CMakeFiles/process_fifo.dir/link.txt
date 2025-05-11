@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/process_fifo.dir/unix/process_fifo.c.o -o process_fifo

@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/mini_cat.dir/mini_cat.c.o -o mini_cat

@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/signal_parent_child.dir/unix/signal_parent_child.c.o -o signal_parent_child

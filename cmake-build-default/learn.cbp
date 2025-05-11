@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="learn"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="farh-celcius">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/farh-celcius" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 farh-celcius"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="farh-celcius/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/farh-celcius" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 farh-celcius/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="character_count">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/character_count" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 character_count"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="character_count/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/character_count" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 character_count/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="longest_line">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/longest_line" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 longest_line"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="longest_line/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/longest_line" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 longest_line/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_type_range">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/data_type_range" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 data_type_range"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_type_range/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/data_type_range" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 data_type_range/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_type_range_bits">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/data_type_range_bits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 data_type_range_bits"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_type_range_bits/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/data_type_range_bits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 data_type_range_bits/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="set_bits">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/set_bits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 set_bits"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="set_bits/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/set_bits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 set_bits/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="print_bits">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/print_bits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 print_bits"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="print_bits/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/print_bits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 print_bits/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="invert_bits">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/invert_bits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 invert_bits"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="invert_bits/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/invert_bits" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 invert_bits/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="set_bit">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/set_bit" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 set_bit"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="set_bit/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/set_bit" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 set_bit/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="strend">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/strend" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 strend"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="strend/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/strend" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 strend/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quicksort">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/quicksort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 quicksort"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quicksort/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/quicksort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 quicksort/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="macro_swap">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/macro_swap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 macro_swap"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="macro_swap/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/macro_swap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 macro_swap/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p2p">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/p2p" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 p2p"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p2p/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/p2p" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 p2p/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="command_args1">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/command_args1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 command_args1"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="command_args1/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/command_args1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 command_args1/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="command_args2">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/command_args2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 command_args2"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="command_args2/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/command_args2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 command_args2/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tree1">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/tree1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 tree1"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tree1/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/tree1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 tree1/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mini_cat">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/mini_cat" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 mini_cat"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mini_cat/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/mini_cat" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 mini_cat/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arra_size1">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/arra_size1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 arra_size1"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arra_size1/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/arra_size1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 arra_size1/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="macro2">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/macro2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 macro2"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="macro2/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/macro2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 macro2/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fib">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/fib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 fib"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fib/fast">
+				<Option output="/media/olu/Store/lang/C/cmake-build-default/fib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/13.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 fib/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/media/olu/Store/lang/C/cmake-build-default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/media/olu/Store/lang/C/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/media/olu/Store/lang/C/DS/tree1.c">
+			<Option target="tree1"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/arra_size1.c">
+			<Option target="arra_size1"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/character_count.c">
+			<Option target="character_count"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/command_args1.c">
+			<Option target="command_args1"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/command_args2_getopt.c">
+			<Option target="command_args2"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/data_type_range.c">
+			<Option target="data_type_range"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/data_type_range_bits.c">
+			<Option target="data_type_range_bits"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/farh-celcius.c">
+			<Option target="farh-celcius"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/fib.c">
+			<Option target="fib"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/get_next_line.c">
+			<Option target="longest_line"/>
+			<Option target="command_args1"/>
+			<Option target="tree1"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/get_next_line.h">
+			<Option target="longest_line"/>
+			<Option target="command_args1"/>
+			<Option target="tree1"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/longest_line.c">
+			<Option target="longest_line"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/macro2.c">
+			<Option target="macro2"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/macro_swap.c">
+			<Option target="macro_swap"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/main.c">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/mini_cat.c">
+			<Option target="mini_cat"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/pointer_to_pointer.c">
+			<Option target="p2p"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/print_bits.c">
+			<Option target="set_bits"/>
+			<Option target="print_bits"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/print_bits.h">
+			<Option target="set_bits"/>
+			<Option target="print_bits"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/quicksort.c">
+			<Option target="quicksort"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/set_bit.c">
+			<Option target="invert_bits"/>
+			<Option target="set_bit"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/strend.c">
+			<Option target="strend"/>
+		</Unit>
+		<Unit filename="/media/olu/Store/lang/C/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

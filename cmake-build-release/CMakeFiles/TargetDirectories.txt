@@ -1,0 +1,14 @@
+/media/olubodun/Store/lang/C/cmake-build-release/CMakeFiles/edit_cache.dir
+/media/olubodun/Store/lang/C/cmake-build-release/CMakeFiles/macro_swap.dir
+/media/olubodun/Store/lang/C/cmake-build-release/CMakeFiles/quicksort.dir
+/media/olubodun/Store/lang/C/cmake-build-release/CMakeFiles/farh-celcius.dir
+/media/olubodun/Store/lang/C/cmake-build-release/CMakeFiles/set_bit.dir
+/media/olubodun/Store/lang/C/cmake-build-release/CMakeFiles/character_count.dir
+/media/olubodun/Store/lang/C/cmake-build-release/CMakeFiles/main.dir
+/media/olubodun/Store/lang/C/cmake-build-release/CMakeFiles/invert_bits.dir
+/media/olubodun/Store/lang/C/cmake-build-release/CMakeFiles/data_type_range.dir
+/media/olubodun/Store/lang/C/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/media/olubodun/Store/lang/C/cmake-build-release/CMakeFiles/data_type_range_bits.dir
+/media/olubodun/Store/lang/C/cmake-build-release/CMakeFiles/set_bits.dir
+/media/olubodun/Store/lang/C/cmake-build-release/CMakeFiles/longest_line.dir
+/media/olubodun/Store/lang/C/cmake-build-release/CMakeFiles/print_bits.dir

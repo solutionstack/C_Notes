@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/macro_swap.dir/macro_swap.c.o -o macro_swap

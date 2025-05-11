@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/fork1.dir/unix/fork1.c.o -o fork1

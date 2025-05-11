@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/fork_wait.dir/unix/fork_wait.c.o -o fork_wait

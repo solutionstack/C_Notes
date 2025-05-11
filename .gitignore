@@ -1,6 +1,9 @@
 cmake-*
 build
+*
 !*.*
+!*/
 .idea/**/*
 .kdev4/**/*
+CMakeFiles/
 

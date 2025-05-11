@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/longest_line.dir/get_next_line.c.o CMakeFiles/longest_line.dir/longest_line.c.o -o longest_line

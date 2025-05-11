@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/exec1.dir/exec1.c.o -o exec1

@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/tree1.dir/DS/tree1.c.o CMakeFiles/tree1.dir/get_next_line.c.o -o tree1

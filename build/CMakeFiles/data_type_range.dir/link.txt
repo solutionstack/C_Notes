@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/data_type_range.dir/data_type_range.c.o -o data_type_range 

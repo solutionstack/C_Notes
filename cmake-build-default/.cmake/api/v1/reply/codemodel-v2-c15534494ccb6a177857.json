@@ -1,0 +1,447 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "learn",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "add_array_threads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-add_array_threads-f903d006154e8075f6f0.json",
+					"name" : "add_array_threads",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "arr_memory_dmp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-arr_memory_dmp-1c40b44a062ae9de2862.json",
+					"name" : "arr_memory_dmp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "arra_size1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-arra_size1-858dd45f6a5f6a0c1e9c.json",
+					"name" : "arra_size1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cancel1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cancel1-087170f3145fd44f80ed.json",
+					"name" : "cancel1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "character_count::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-character_count-a269d168a78ee0a01e5a.json",
+					"name" : "character_count",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chefs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chefs-e995ee1a615e6d3eab1b.json",
+					"name" : "chefs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "command_args1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-command_args1-d97ed99664d80e4a6b17.json",
+					"name" : "command_args1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "command_args2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-command_args2-be2d03899f9459b15576.json",
+					"name" : "command_args2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cond1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cond1-94d27e3597990022233f.json",
+					"name" : "cond1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "data_type_range::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-data_type_range-6d3b257cf2466cddeb9e.json",
+					"name" : "data_type_range",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "data_type_range_bits::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-data_type_range_bits-7d5e58b803d2cf7b8b24.json",
+					"name" : "data_type_range_bits",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "din_ph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-din_ph-daea500991b929dc1efa.json",
+					"name" : "din_ph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "double_point_to_func::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-double_point_to_func-9dd1c999ad4e88c77f15.json",
+					"name" : "double_point_to_func",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exec1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exec1-9387ba4e57203bd403ac.json",
+					"name" : "exec1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exec1start_stop::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exec1start_stop-ec08a507ce3115f3d0f3.json",
+					"name" : "exec1start_stop",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "farh-celcius::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-farh-celcius-1b458cc3d63cdc281dfa.json",
+					"name" : "farh-celcius",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fork1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fork1-06d5e5c6e2e329af703b.json",
+					"name" : "fork1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fork_wait::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fork_wait-19e934c3081fbc680fbd.json",
+					"name" : "fork_wait",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hello::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hello-0f1358b08379009a1829.json",
+					"name" : "hello",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "invert_bits::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-invert_bits-7d9e21bbf37c6019c442.json",
+					"name" : "invert_bits",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "join::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-join-1036fce855b673a70d70.json",
+					"name" : "join",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "join2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-join2-cd23659167a33af7b757.json",
+					"name" : "join2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "longest_line::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-longest_line-44badd587331e7fc037e.json",
+					"name" : "longest_line",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "macro2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-macro2-b5b3b7c5a7e27bbce14f.json",
+					"name" : "macro2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "macro_swap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-macro_swap-7c0f24dab08d9bd39c8e.json",
+					"name" : "macro_swap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-59fe2a70c4be05283261.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mini_cat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mini_cat-3f48c0c54f5e44258032.json",
+					"name" : "mini_cat",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mutext1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mutext1-9948798b95097fb5271e.json",
+					"name" : "mutext1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "notif::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-notif-f4d5fd9078b49e337ec9.json",
+					"name" : "notif",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "p2p::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-p2p-9c2c2e129c40353020b6.json",
+					"name" : "p2p",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "print_bits::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-print_bits-8b9280b28f6731cbc6f6.json",
+					"name" : "print_bits",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "process_comm_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-process_comm_1-b7750877b886aa82e6dc.json",
+					"name" : "process_comm_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "process_comm_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-process_comm_2-b2394d47dca2231966fa.json",
+					"name" : "process_comm_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "process_fifo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-process_fifo-75819f2758358156509b.json",
+					"name" : "process_fifo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "quicksort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quicksort-e8a89a5f8e3cf877ca51.json",
+					"name" : "quicksort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random-b9521d380b1c8229c8fe.json",
+					"name" : "random",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "set_bit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-set_bit-6df67ba882feb36b82f3.json",
+					"name" : "set_bit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "signal_handling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-signal_handling-38ab8a492af9ba51bf77.json",
+					"name" : "signal_handling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "signal_parent_child::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-signal_parent_child-265c47c31fd8a63f0309.json",
+					"name" : "signal_parent_child",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "strend::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-strend-70631601295fc137a5da.json",
+					"name" : "strend",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "strops2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-strops2-e244bd336589aac242f3.json",
+					"name" : "strops2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "strtood::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-strtood-08e77d63c3b0e00d2d23.json",
+					"name" : "strtood",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tree1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tree1-26c91e609cec7decccd9.json",
+					"name" : "tree1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "u::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-u-e30d2c478b07c98d72cc.json",
+					"name" : "u",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/olu/Store/lang/C/cmake-build-default",
+		"source" : "/media/olu/Store/lang/C"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

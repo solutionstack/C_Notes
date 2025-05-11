@@ -1,0 +1,4 @@
+/home/olu/opt/clion-2024.2/bin/cmake/linux/x64/bin/cmake "-DCMAKE_CXX_FLAG=-fsanitize=address -fno-omit-frame-pointer" -G "Unix Makefiles" -S /media/olu/Store/lang/C -B /media/olu/Store/lang/C/cmake-build-default
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /media/olu/Store/lang/C/cmake-build-default

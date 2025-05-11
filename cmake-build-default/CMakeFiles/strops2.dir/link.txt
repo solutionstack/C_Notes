@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/strops2.dir/strops2.c.o -o strops2

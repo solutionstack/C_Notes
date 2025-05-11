@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/hello.dir/Threads/hello.c.o -o hello

@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/add_array_threads.dir/Threads/add_array_threads.c.o -o add_array_threads

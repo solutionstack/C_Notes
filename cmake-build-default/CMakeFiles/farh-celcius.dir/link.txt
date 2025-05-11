@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address "CMakeFiles/farh-celcius.dir/farh-celcius.c.o" -o farh-celcius

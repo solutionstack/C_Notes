@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/notif.dir/Threads/nfc/notif.c.o -o notif
