@@ -1,0 +1,199 @@
+The system is: Linux - 6.12.9+bpo-amd64 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/media/olu/Store/lang/C/CMakeFiles/3.25.1/CompilerIdC/a.out"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /media/olu/Store/lang/C/CMakeFiles/CMakeScratch/TryCompile-3URAke
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_f4290/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_f4290.dir/build.make CMakeFiles/cmTC_f4290.dir/build
+gmake[1]: Entering directory '/media/olu/Store/lang/C/CMakeFiles/CMakeScratch/TryCompile-3URAke'
+Building C object CMakeFiles/cmTC_f4290.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc   -v -o CMakeFiles/cmTC_f4290.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-3.25/Modules/CMakeCCompilerABI.c
+Using built-in specs.
+COLLECT_GCC=/usr/bin/cc
+Target: x86_64-linux-gnu
+Configured with: ./configure -v --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu --prefix=/usr/local/gcc-14.1.0 --enable-checking=release --enable-languages=c,c++ --disable-multilib --program-suffix=-14.1.0
+Thread model: posix
+Supported LTO compression algorithms: zlib zstd
+gcc version 14.1.0 (GCC) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f4290.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_f4290.dir/'
+ /usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-3.25/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_f4290.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -o /tmp/cc0HKtEx.s
+GNU C17 (GCC) version 14.1.0 (x86_64-linux-gnu)
+	compiled by GNU C version 14.1.0, GMP version 6.2.1, MPFR version 4.2.0, MPC version 1.3.1, isl version none
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "/usr/local/include/x86_64-linux-gnu"
+ignoring nonexistent directory "/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/include-fixed/x86_64-linux-gnu"
+ignoring nonexistent directory "/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../../../x86_64-linux-gnu/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/include
+ /usr/local/include
+ /usr/local/gcc-14.1.0/include
+ /usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/include-fixed
+ /usr/include/x86_64-linux-gnu
+ /usr/include
+End of search list.
+Compiler executable checksum: 1a46fad7aa674ebb5968d25f7a2074ae
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f4290.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_f4290.dir/'
+ as -v --64 -o CMakeFiles/cmTC_f4290.dir/CMakeCCompilerABI.c.o /tmp/cc0HKtEx.s
+GNU assembler version 2.40 (x86_64-linux-gnu) using BFD version (GNU Binutils for Debian) 2.40
+COMPILER_PATH=/usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/:/usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/:/usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/:/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/:/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/:/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../../../lib64/:/lib/x86_64-linux-gnu/:/lib/../lib64/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib64/:/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f4290.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_f4290.dir/CMakeCCompilerABI.c.'
+Linking C executable cmTC_f4290
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f4290.dir/link.txt --verbose=1
+/usr/bin/cc  -v CMakeFiles/cmTC_f4290.dir/CMakeCCompilerABI.c.o -o cmTC_f4290 
+Using built-in specs.
+COLLECT_GCC=/usr/bin/cc
+COLLECT_LTO_WRAPPER=/usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/lto-wrapper
+Target: x86_64-linux-gnu
+Configured with: ./configure -v --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu --prefix=/usr/local/gcc-14.1.0 --enable-checking=release --enable-languages=c,c++ --disable-multilib --program-suffix=-14.1.0
+Thread model: posix
+Supported LTO compression algorithms: zlib zstd
+gcc version 14.1.0 (GCC) 
+COMPILER_PATH=/usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/:/usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/:/usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/:/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/:/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/:/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../../../lib64/:/lib/x86_64-linux-gnu/:/lib/../lib64/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib64/:/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f4290' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_f4290.'
+ /usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/collect2 -plugin /usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/liblto_plugin.so -plugin-opt=/usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/lto-wrapper -plugin-opt=-fresolution=/tmp/cc1gj7AM.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_f4290 /lib/x86_64-linux-gnu/crt1.o /lib/x86_64-linux-gnu/crti.o /usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/crtbegin.o -L/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0 -L/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib64 -L/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../.. CMakeFiles/cmTC_f4290.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/crtend.o /lib/x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f4290' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_f4290.'
+gmake[1]: Leaving directory '/media/olu/Store/lang/C/CMakeFiles/CMakeScratch/TryCompile-3URAke'
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/include]
+    add: [/usr/local/include]
+    add: [/usr/local/gcc-14.1.0/include]
+    add: [/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/include-fixed]
+    add: [/usr/include/x86_64-linux-gnu]
+    add: [/usr/include]
+  end of search list found
+  collapse include dir [/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/include] ==> [/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/include]
+  collapse include dir [/usr/local/include] ==> [/usr/local/include]
+  collapse include dir [/usr/local/gcc-14.1.0/include] ==> [/usr/local/gcc-14.1.0/include]
+  collapse include dir [/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/include-fixed] ==> [/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/include-fixed]
+  collapse include dir [/usr/include/x86_64-linux-gnu] ==> [/usr/include/x86_64-linux-gnu]
+  collapse include dir [/usr/include] ==> [/usr/include]
+  implicit include dirs: [/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/include;/usr/local/include;/usr/local/gcc-14.1.0/include;/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/include-fixed;/usr/include/x86_64-linux-gnu;/usr/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /media/olu/Store/lang/C/CMakeFiles/CMakeScratch/TryCompile-3URAke]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_f4290/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_f4290.dir/build.make CMakeFiles/cmTC_f4290.dir/build]
+  ignore line: [gmake[1]: Entering directory '/media/olu/Store/lang/C/CMakeFiles/CMakeScratch/TryCompile-3URAke']
+  ignore line: [Building C object CMakeFiles/cmTC_f4290.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc   -v -o CMakeFiles/cmTC_f4290.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-3.25/Modules/CMakeCCompilerABI.c]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/cc]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ./configure -v --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu --prefix=/usr/local/gcc-14.1.0 --enable-checking=release --enable-languages=c c++ --disable-multilib --program-suffix=-14.1.0]
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib zstd]
+  ignore line: [gcc version 14.1.0 (GCC) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f4290.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_f4290.dir/']
+  ignore line: [ /usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-3.25/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_f4290.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -o /tmp/cc0HKtEx.s]
+  ignore line: [GNU C17 (GCC) version 14.1.0 (x86_64-linux-gnu)]
+  ignore line: [	compiled by GNU C version 14.1.0  GMP version 6.2.1  MPFR version 4.2.0  MPC version 1.3.1  isl version none]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring nonexistent directory "/usr/local/include/x86_64-linux-gnu"]
+  ignore line: [ignoring nonexistent directory "/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/include-fixed/x86_64-linux-gnu"]
+  ignore line: [ignoring nonexistent directory "/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../../../x86_64-linux-gnu/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/include]
+  ignore line: [ /usr/local/include]
+  ignore line: [ /usr/local/gcc-14.1.0/include]
+  ignore line: [ /usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/include-fixed]
+  ignore line: [ /usr/include/x86_64-linux-gnu]
+  ignore line: [ /usr/include]
+  ignore line: [End of search list.]
+  ignore line: [Compiler executable checksum: 1a46fad7aa674ebb5968d25f7a2074ae]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f4290.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_f4290.dir/']
+  ignore line: [ as -v --64 -o CMakeFiles/cmTC_f4290.dir/CMakeCCompilerABI.c.o /tmp/cc0HKtEx.s]
+  ignore line: [GNU assembler version 2.40 (x86_64-linux-gnu) using BFD version (GNU Binutils for Debian) 2.40]
+  ignore line: [COMPILER_PATH=/usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/:/usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/:/usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/:/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/:/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/:/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../../../lib64/:/lib/x86_64-linux-gnu/:/lib/../lib64/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib64/:/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f4290.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_f4290.dir/CMakeCCompilerABI.c.']
+  ignore line: [Linking C executable cmTC_f4290]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f4290.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc  -v CMakeFiles/cmTC_f4290.dir/CMakeCCompilerABI.c.o -o cmTC_f4290 ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/cc]
+  ignore line: [COLLECT_LTO_WRAPPER=/usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/lto-wrapper]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ./configure -v --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu --prefix=/usr/local/gcc-14.1.0 --enable-checking=release --enable-languages=c c++ --disable-multilib --program-suffix=-14.1.0]
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib zstd]
+  ignore line: [gcc version 14.1.0 (GCC) ]
+  ignore line: [COMPILER_PATH=/usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/:/usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/:/usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/:/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/:/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/:/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../../../lib64/:/lib/x86_64-linux-gnu/:/lib/../lib64/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib64/:/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f4290' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_f4290.']
+  link line: [ /usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/collect2 -plugin /usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/liblto_plugin.so -plugin-opt=/usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/lto-wrapper -plugin-opt=-fresolution=/tmp/cc1gj7AM.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_f4290 /lib/x86_64-linux-gnu/crt1.o /lib/x86_64-linux-gnu/crti.o /usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/crtbegin.o -L/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0 -L/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../../../lib64 -L/lib/x86_64-linux-gnu -L/lib/../lib64 -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib64 -L/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../.. CMakeFiles/cmTC_f4290.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/crtend.o /lib/x86_64-linux-gnu/crtn.o]
+    arg [/usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/usr/local/gcc-14.1.0/libexec/gcc/x86_64-linux-gnu/14.1.0/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/cc1gj7AM.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_f4290] ==> ignore
+    arg [/lib/x86_64-linux-gnu/crt1.o] ==> obj [/lib/x86_64-linux-gnu/crt1.o]
+    arg [/lib/x86_64-linux-gnu/crti.o] ==> obj [/lib/x86_64-linux-gnu/crti.o]
+    arg [/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/crtbegin.o] ==> obj [/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/crtbegin.o]
+    arg [-L/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0] ==> dir [/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0]
+    arg [-L/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../../../lib64] ==> dir [/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../../../lib64]
+    arg [-L/lib/x86_64-linux-gnu] ==> dir [/lib/x86_64-linux-gnu]
+    arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
+    arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
+    arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
+    arg [-L/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../..] ==> dir [/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../..]
+    arg [CMakeFiles/cmTC_f4290.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [--push-state] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--pop-state] ==> ignore
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--push-state] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--pop-state] ==> ignore
+    arg [/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/crtend.o] ==> obj [/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/crtend.o]
+    arg [/lib/x86_64-linux-gnu/crtn.o] ==> obj [/lib/x86_64-linux-gnu/crtn.o]
+  collapse library dir [/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0] ==> [/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0]
+  collapse library dir [/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../../../lib64] ==> [/usr/local/gcc-14.1.0/lib64]
+  collapse library dir [/lib/x86_64-linux-gnu] ==> [/lib/x86_64-linux-gnu]
+  collapse library dir [/lib/../lib64] ==> [/lib64]
+  collapse library dir [/usr/lib/x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/../lib64] ==> [/usr/lib64]
+  collapse library dir [/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/../../..] ==> [/usr/local/gcc-14.1.0/lib]
+  implicit libs: [gcc;gcc_s;c;gcc;gcc_s]
+  implicit objs: [/lib/x86_64-linux-gnu/crt1.o;/lib/x86_64-linux-gnu/crti.o;/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/crtbegin.o;/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0/crtend.o;/lib/x86_64-linux-gnu/crtn.o]
+  implicit dirs: [/usr/local/gcc-14.1.0/lib/gcc/x86_64-linux-gnu/14.1.0;/usr/local/gcc-14.1.0/lib64;/lib/x86_64-linux-gnu;/lib64;/usr/lib/x86_64-linux-gnu;/usr/lib64;/usr/local/gcc-14.1.0/lib]
+  implicit fwks: []
+
+

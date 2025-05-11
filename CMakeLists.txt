@@ -2,8 +2,8 @@ cmake_minimum_required(VERSION 3.16)
 project(learn C)
 
 set(CMAKE_C_STANDARD 11)
-add_compile_options(-O1 -fhardened -Wpedantic -Wall -Wextra -fsanitize=address )
-add_link_options(-fsanitize=address)#needed to match compile libasan option
+add_compile_options(-O1 -fhardened -Wpedantic -Wall -Wextra) #-fsanitize=address )
+#add_link_options(-fsanitize=address)#needed to match compile libasan option
 add_definitions(-DDEBUG)
 
 
