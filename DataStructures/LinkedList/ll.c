@@ -167,7 +167,6 @@ int main(void) {
 
   print_node(p);
 
-  printf("\n Before reverse ...\n");
   p = reverse_list(p);
 
   printf("After reverse\n");
